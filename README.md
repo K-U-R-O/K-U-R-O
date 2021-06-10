@@ -2,7 +2,7 @@
 - 👀 I’m interested in gaming and game coding
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on nothing at the moment
-- 📫 How to reach me ...
+- 📫 How to reach me kuroz@gmail.com
 
 <!---
 K-U-R-O/K-U-R-O is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
